@@ -12,9 +12,9 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                KoushikPal.Com "
+echo -e $lightgreen "\e[1m                t.me/vishalzxx "
 echo " "
-echo -e $yellow "\e[1m                         -Koushik Pal "
+echo -e $yellow "\e[1m                         -vishal Hacker "
 echo " "
 echo " "
 echo " "
